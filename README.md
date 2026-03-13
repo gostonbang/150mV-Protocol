@@ -1,4 +1,4 @@
-[![DOI](https://doi.org/10.5281/zenodo.18999146.svg)](https://doi.org/10.5281/zenodo.18999146)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999146-blue.svg)](https://doi.org/10.5281/zenodo.18999146)
 # Project: The 150mV Protocol
 ### A Unified Logical Framework for Interfacial Resonance, Ambient Catalysis, and Civilizational Emergence.
 
