@@ -1,11 +1,11 @@
 ## 🔗 Academic Proof & Logical Anchors
 The theoretical framework of "Full-Scale Self-Consistency" is officially archived with the following DOIs:
 
-- **Micro-scale (150mV Protocol):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999146-blue)](https://doi.org/10.5281/zenodo.18999146)
-- **Macro-scale (Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19156456-blue)](https://doi.org/10.5281/zenodo.19156456)
+- **Micro-scale (150mV Protocol):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999145-blue)](https://doi.org/10.5281/zenodo.18999145)
+- **Macro-scale (Cosmic Respiration):** [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999120-blue)](https://doi.org/10.5281/zenodo.18999120)
 
 *Verification includes the "1 cm" anomalous displacement audit (NORAD ID 25731) and the 150mV Nitrogen-Fixation threshold.*
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999146-blue.svg)](https://doi.org/10.5281/zenodo.18999146)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.18999145-blue.svg)](https://doi.org/10.5281/zenodo.18999145)
 # Project: The 150mV Protocol
 ### A Unified Logical Framework for Interfacial Resonance, Ambient Catalysis, and Civilizational Emergence.
 
